@@ -1,0 +1,18 @@
+@import './base.scss';
+@import './layout.scss';
+
+@import './compontens/Header.scss';
+@import './compontens/Input.scss';
+@import './compontens/List.scss';
+@import './compontens/Bottom.scss';
+@import './compontens/Footer.scss';
+
+
+
+.app {
+  margin-top: 50px;
+}
+
+.main {
+  background-color: #fff;
+}

@@ -1,0 +1,29 @@
+.toggle {
+  position: relative;
+}
+.toggle .toggle-all {
+  position: absolute;
+  top: 10px;
+  left: -8px;
+  font-size: 20px;
+  transform: rotate(90deg);
+  width: 50px;
+  height: 32px;
+  text-align: center;
+  color: #d9d9d9;
+}
+.toggle .toggle-text {
+  width: 100%;
+  padding: 16px 16px 16px 40px;
+}
+.toggle .toggle-color {
+  color: black;
+  position: absolute;
+  top: 10px;
+  left: -8px;
+  font-size: 20px;
+  transform: rotate(90deg);
+  width: 50px;
+  height: 32px;
+  text-align: center;
+}
